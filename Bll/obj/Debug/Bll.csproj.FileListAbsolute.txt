@@ -1,0 +1,9 @@
+c:\users\ka.pco\documents\visual studio 2015\Projects\SistemaEscola\Bll\bin\Debug\Bll.dll
+c:\users\ka.pco\documents\visual studio 2015\Projects\SistemaEscola\Bll\bin\Debug\Bll.pdb
+c:\users\ka.pco\documents\visual studio 2015\Projects\SistemaEscola\Bll\bin\Debug\DAL.dll
+c:\users\ka.pco\documents\visual studio 2015\Projects\SistemaEscola\Bll\bin\Debug\Modelo.dll
+c:\users\ka.pco\documents\visual studio 2015\Projects\SistemaEscola\Bll\bin\Debug\DAL.pdb
+c:\users\ka.pco\documents\visual studio 2015\Projects\SistemaEscola\Bll\bin\Debug\Modelo.pdb
+c:\users\ka.pco\documents\visual studio 2015\Projects\SistemaEscola\Bll\obj\Debug\Bll.csprojResolveAssemblyReference.cache
+c:\users\ka.pco\documents\visual studio 2015\Projects\SistemaEscola\Bll\obj\Debug\Bll.dll
+c:\users\ka.pco\documents\visual studio 2015\Projects\SistemaEscola\Bll\obj\Debug\Bll.pdb

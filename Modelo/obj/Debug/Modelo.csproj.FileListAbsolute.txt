@@ -1,0 +1,5 @@
+c:\users\ka.pco\documents\visual studio 2015\Projects\SistemaEscola\Modelo\bin\Debug\Modelo.dll
+c:\users\ka.pco\documents\visual studio 2015\Projects\SistemaEscola\Modelo\bin\Debug\Modelo.pdb
+c:\users\ka.pco\documents\visual studio 2015\Projects\SistemaEscola\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+c:\users\ka.pco\documents\visual studio 2015\Projects\SistemaEscola\Modelo\obj\Debug\Modelo.dll
+c:\users\ka.pco\documents\visual studio 2015\Projects\SistemaEscola\Modelo\obj\Debug\Modelo.pdb

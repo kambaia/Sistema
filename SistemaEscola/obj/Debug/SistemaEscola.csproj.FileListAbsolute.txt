@@ -1,0 +1,15 @@
+c:\users\ka.pco\documents\visual studio 2015\Projects\SistemaEscola\SistemaEscola\bin\Debug\SistemaEscola.exe.config
+c:\users\ka.pco\documents\visual studio 2015\Projects\SistemaEscola\SistemaEscola\bin\Debug\SistemaEscola.exe
+c:\users\ka.pco\documents\visual studio 2015\Projects\SistemaEscola\SistemaEscola\bin\Debug\SistemaEscola.pdb
+c:\users\ka.pco\documents\visual studio 2015\Projects\SistemaEscola\SistemaEscola\bin\Debug\Bll.dll
+c:\users\ka.pco\documents\visual studio 2015\Projects\SistemaEscola\SistemaEscola\bin\Debug\DAL.dll
+c:\users\ka.pco\documents\visual studio 2015\Projects\SistemaEscola\SistemaEscola\bin\Debug\Modelo.dll
+c:\users\ka.pco\documents\visual studio 2015\Projects\SistemaEscola\SistemaEscola\bin\Debug\Bll.pdb
+c:\users\ka.pco\documents\visual studio 2015\Projects\SistemaEscola\SistemaEscola\bin\Debug\DAL.pdb
+c:\users\ka.pco\documents\visual studio 2015\Projects\SistemaEscola\SistemaEscola\bin\Debug\Modelo.pdb
+c:\users\ka.pco\documents\visual studio 2015\Projects\SistemaEscola\SistemaEscola\obj\Debug\SistemaEscola.csprojResolveAssemblyReference.cache
+c:\users\ka.pco\documents\visual studio 2015\Projects\SistemaEscola\SistemaEscola\obj\Debug\SistemaEscola.Form1.resources
+c:\users\ka.pco\documents\visual studio 2015\Projects\SistemaEscola\SistemaEscola\obj\Debug\SistemaEscola.Properties.Resources.resources
+c:\users\ka.pco\documents\visual studio 2015\Projects\SistemaEscola\SistemaEscola\obj\Debug\SistemaEscola.csproj.GenerateResource.Cache
+c:\users\ka.pco\documents\visual studio 2015\Projects\SistemaEscola\SistemaEscola\obj\Debug\SistemaEscola.exe
+c:\users\ka.pco\documents\visual studio 2015\Projects\SistemaEscola\SistemaEscola\obj\Debug\SistemaEscola.pdb
